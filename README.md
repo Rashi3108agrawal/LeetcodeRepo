@@ -54,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rashi3108agrawal/LeetcodeRepo/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/Rashi3108agrawal/LeetcodeRepo/tree/master/0371-sum-of-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/Rashi3108agrawal/LeetcodeRepo/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
