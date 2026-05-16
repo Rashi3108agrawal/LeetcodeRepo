@@ -1,7 +1,72 @@
-# LeetcodeRepo
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# 🚀 DSA Patterns
 
-<!---LeetCode Topics Start-->
+A personal repository for structured practice of **Data Structures & Algorithms**, focused on improving problem-solving skills through pattern-based learning.
+
+This repository is maintained as a **progress log of consistent practice, revision, and interview preparation**.
+
+---
+
+## 🎯 Purpose
+
+- Build strong problem-solving intuition
+- Identify and master DSA patterns
+- Improve speed and accuracy in coding interviews
+- Maintain consistency in practice
+
+---
+
+## 🧠 Approach
+
+Each problem is solved using a structured method:
+
+1. Identify the pattern
+2. Start with brute force approach
+3. Optimize step-by-step
+4. Implement clean solution
+5. Analyze time and space complexity
+6. Note key insights
+
+---
+
+## 📌 Core Topics Covered
+
+- Arrays & Hashing
+- Two Pointers
+- Sliding Window
+- Stack & Monotonic Stack
+- Binary Search
+- Linked List
+- Trees & Graphs
+- Dynamic Programming
+- Backtracking
+
+---
+
+## 🧩 Problem Format
+
+Each solution includes:
+
+- Problem reference
+- Pattern identification
+- Approach explanation
+- Optimized code
+- Time & Space complexity
+
+---
+
+## 📈 Focus Areas
+
+- Consistency over quantity
+- Pattern recognition over memorization
+- Revision of solved problems
+- Writing clean and readable code
+
+---
+
+## ⚙️ Philosophy
+
+“The goal is not to solve every problem, but to recognize patterns quickly and apply them correctly.”
+
 # LeetCode Topics
 ## Array
 |  |
