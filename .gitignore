@@ -1,0 +1,104 @@
+# Java Compilation
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+.gradle/
+build/
+gradle-app.setting
+.gradletasknamecache
+bin/
+out/
+
+# IDE - Eclipse
+.classpath
+.project
+.settings/
+bin/
+.sts4-cache/
+
+# IDE - IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
+
+# IDE - VS Code
+.vscode/
+.vscode-test
+*.vsix
+launch.json
+settings.json
+
+# IDE - NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# IDE - Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# IDE - Vim
+*.swp
+*.swo
+*~
+.vim/
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+~*
+.~*
+
+# Build and runtime artifacts
+*.o
+*.so
+*.dylib
+*.exe
+
+# Documentation
+javadoc/
+docs/
+
+# Testing
+.coverage
+coverage/
+htmlcov/
+
+# Package managers
+.npm/
+npm-debug.log*
+yarn-error.log*
+
+# Miscellaneous
+.env
+.env.local
+.env.*.local
